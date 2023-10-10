@@ -1,4 +1,4 @@
-module github.com/akhil/go-bookstore
+module github.com/Ja5in99/Golang-Projects/tree/main/Bookstore
 
 go 1.21.2
 
